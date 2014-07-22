@@ -1,26 +1,26 @@
-\# Intellij
+# Intellij
 out/
 .idea/
 *.iml
 *.iws
 
-\# Eclipse
+# Eclipse
 .classpath
 .project
 .settings/
 
-\# NetBeans
+# NetBeans
 nbproject/
 
-\# Mac
+# Mac
 .DS_Store
 
-\# Maven
+# Maven
 log/
 target/
 build.xml
 
-\# Visual Studio
+# Visual Studio
 *.obj
 *.exe
 *.pdb
@@ -42,11 +42,11 @@ build.xml
 *.lib
 *.sbr
 
-\# Artifacts
+# Artifacts
 *.class
 *.jar
 
-\# Other
+# Other
 build/
 bin/
 dist/
