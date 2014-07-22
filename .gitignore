@@ -1,0 +1,54 @@
+\# Intellij
+out/
+.idea/
+*.iml
+*.iws
+
+\# Eclipse
+.classpath
+.project
+.settings/
+
+\# NetBeans
+nbproject/
+
+\# Mac
+.DS_Store
+
+\# Maven
+log/
+target/
+build.xml
+
+\# Visual Studio
+*.obj
+*.exe
+*.pdb
+*.user
+*.aps
+*.pch
+*.vspscc
+*_i.c
+*_p.c
+*.ncb
+*.suo
+*.tlb
+*.tlh
+*.bak
+*.cache
+*.ilk
+*.log
+*.dll
+*.lib
+*.sbr
+
+\# Artifacts
+*.class
+*.jar
+
+\# Other
+build/
+bin/
+dist/
+manifest.mf
+Thumbs.db
