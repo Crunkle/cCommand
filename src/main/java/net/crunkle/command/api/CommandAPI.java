@@ -14,7 +14,7 @@ import java.util.ArrayList;
  * to hook on. It handles the registration of commands
  * on demand using the {@link ReflectionUtil} methods.
  *
- * @author Crunkle
+ * @author Jared Tiala
  */
 public class CommandAPI {
     private final JavaPlugin plugin;

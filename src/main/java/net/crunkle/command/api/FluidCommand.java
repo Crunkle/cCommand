@@ -13,7 +13,7 @@ import java.util.List;
  * is simply used to hold the command information in
  * memory for later use, such as execution.
  *
- * @author Crunkle
+ * @author Jared Tiala
  */
 public class FluidCommand extends Command {
     private final CommandAPI handle;

@@ -10,7 +10,7 @@ import java.lang.reflect.Field;
  * the {@link CommandMap} object from where it is
  * declared.
  *
- * @author Crunkle
+ * @author Jared Tiala
  */
 public class ReflectionUtil {
     private static CommandMap commandMap;

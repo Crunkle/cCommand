@@ -5,7 +5,7 @@ import org.bukkit.command.Command;
 import org.bukkit.command.CommandSender;
 
 /**
- * @author Crunkle
+ * @author Jared Tiala
  */
 public class TestCommand {
     @DefinedCommand(
